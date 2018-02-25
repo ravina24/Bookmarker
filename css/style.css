@@ -51,6 +51,11 @@ body {
   font-size: 1.5rem;
 }
 
+/* to make the bookmarksResults display like a well----Make it look prettier*/
+.well {
+border-style:solid;
+}
+
 /* Supporting marketing content */
 .marketing {
   margin: 3rem 0;
